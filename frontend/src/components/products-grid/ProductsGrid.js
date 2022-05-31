@@ -20,7 +20,7 @@ const ProductsGrid = ({ products, productsStatus }) => {
     }
 
     return (
-        <Grid header='Products'>
+        <Grid>
             {content}
         </Grid>
     )
